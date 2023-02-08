@@ -154,8 +154,11 @@
                 let idName = "input"+ i;
                 //alert(idName)
                 document.getElementById(idName).value = '';
+                if(i < 8){
+                    document.getElementById("total" + i).innerHTML = '';
+                }
             }
-            
+            document.getElementById("finalValue").innerHTML = ''
         }
         function Calculate(){
 
