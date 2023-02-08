@@ -1,0 +1,58 @@
+.main{
+    color: white;
+    background-color: blue;
+}
+#main{
+    border-radius: 10px;
+    padding: 24px;
+    background-color: blue;
+}
+.num{
+    margin-left: 2px;
+    margin-right: 2px;
+    
+    height: 39px;
+    width: 76px;
+    padding: 1px 3px 1px 1px;
+}
+.option{
+    margin-left: 2px;
+    margin-right: 2px;
+    font-size: 1px;
+}
+.select{
+    margin-left: 2px;
+    margin-right: 2px;
+    
+    height: 39px;
+    width: 76px;
+    padding: 1px 3px 1px 1px;
+}
+.cotainer{
+    margin-left: 97px;
+    margin-right: 24px;
+}
+.mycolor{
+    border-radius: 4px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    background-color: darkgray;
+}
+
+.h1{
+   margin-left: 890px;
+}
+.cole6-left {
+   margin-top: 15px;
+}
+.cole6-right{
+    margin-left: 500px !important;
+}
+#finalValue{
+    margin-left: 888px;
+    text-align: end;
+    
+    
+    margin-top: -58px;
+    margin-bottom: 6px;
+}
